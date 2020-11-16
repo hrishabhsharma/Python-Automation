@@ -1,6 +1,6 @@
 # Python-Automation
 
-We have created a menu driven program which can automate Basic Linux Commands,Partitions,LVM,Hadoop,Docker,AWS-CLI,Web-Server,Ansible concepts.Anyone can use this program to configure Docker,Web Server and setup HDFS cluster & can work easily with all the basics concepts with all these tools & technologies without knowing the commands.
+I have created a menu driven program which can automate Basic Linux Commands,Partitions,LVM,Hadoop,Docker,AWS-CLI,Web-Server,Ansible concepts.Anyone can use this program to configure Docker,Web Server and setup HDFS cluster & can work easily with all the basics concepts with all these tools & technologies without knowing the commands.
 
 We have done the following things :-
 
