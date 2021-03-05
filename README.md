@@ -8,38 +8,38 @@
 
 * Run following Basic linux commands locally and remotely.
 ```
-➢	Date
-➢	Open calendar
-➢	Check IP
-➢	Check Connectivity
-➢	Create a file using gedit and vim
-➢	Open firefox
-➢	Run Python Interpreter
-➢	Check particular command comes from
-➢	Check manual for particular command
-➢	Read the packets coming
-➢	Remote login
+●	Date
+●	Open calendar
+●	Check IP
+●	Check Connectivity
+●	Create a file using gedit and vim
+●	Open firefox
+●	Run Python Interpreter
+●	Check particular command comes from
+●	Check manual for particular command
+●	Read the packets coming
+●	Remote login
 ```
 
 ### Partition
 ```
-➢	Check details of device Attached(H.D)
-➢	Create Physical Partition
-➢	Load the driver
-➢	Format the partition
-➢	Mount to a folder
-➢	Unmount folder/directory
+●	Check details of device Attached(H.D)
+● Create Physical Partition
+●	Load the driver
+●	Format the partition
+●	Mount to a folder
+●	Unmount folder/directory
 ```
 
 ### LVM
 ```
-➢	Create a physical volume
-➢	Create volume group
-➢	Create logical volume
-➢	Format the partition
-➢	Mount to a folder
-➢	Unmount folder/directory
-➢	Increase or Decrease the size of partition
+●	Create a physical volume
+●	Create volume group
+●	Create logical volume
+●	Format the partition
+●	Mount to a folder
+●	Unmount folder/directory
+●	Increase or Decrease the size of partition
 ```
 
 ### Hadoop
@@ -85,7 +85,7 @@
 ●	Start and stop the service
 ●	Check Status(active/Inactive)
 ●	Get docker information
-➢	Docker Operation
+●	Docker Operation
 ●	Show Docker images
 ●	Download/Pull docker images
 ●	Check how many containers are running
@@ -98,24 +98,24 @@
 
 ### Ansible
 ```
-➢	Install Ansible
-➢	Check ansible version installed
-➢	See Inventories
-➢	Add Inventories
-➢	Add TN/MN to CN
-➢	Check connectivity with TN/MN
+●	Install Ansible
+●	Check ansible version installed
+●	See Inventories
+●	Add Inventories
+●	Add TN/MN to CN
+●	Check connectivity with TN/MN
 ```
 
 ### AWS-CLI
 ```
-➢	Install and check aws-cli version installed
-➢	Description of EC2 instances
-➢	Create a Key-pair
-➢	Description of Key pair
-➢	Launch an amazon-linux Instance on AWS cloud
-➢	Description of Security groups
-➢	Create Volume
-➢	Attach And Detach volume
+●	Install and check aws-cli version installed
+●	Description of EC2 instances
+●	Create a Key-pair
+●	Description of Key pair
+●	Launch an amazon-linux Instance on AWS cloud
+●	Description of Security groups
+●	Create Volume
+●	Attach And Detach volume
 ```
 
 
